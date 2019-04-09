@@ -2,4 +2,4 @@
 
 Python for Data Analysis 
 
-This covers a Fake Cover Game project in the final
+# This covers a Fake Cover Game project in the final
