@@ -2,4 +2,4 @@
 
 Python for Data Analysis 
 
-This covers a smaal project of web scraping and visualization in the end
+This covers a Fake Cover Game project in the final
